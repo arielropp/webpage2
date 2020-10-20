@@ -28,7 +28,7 @@ h2 {
 
 #rcorners1 {
   border-radius: 25px;
-  background: #42a99e;
+  background: #91b2b2;
   padding: 20px;
   width: 625px;
   margin-left: 225px;
@@ -55,4 +55,18 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+}
+
+img {
+  border-radius: 20%;
+}
+
+#transition {
+  width: 100px;
+  height: 100px;
+  background: #ebaf94;
+  transition: width 2s;
+  margin-left: 500px;
+  padding: 12px;
+  font-family: sans-serif;
 }
