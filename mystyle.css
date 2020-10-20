@@ -1,9 +1,9 @@
 body {
-  background-color: #c9ece8;
+  background-image: linear-gradient(to bottom right, #c9ece8, #074c47);
 }
 
 h1 {
-  color: #42a99e;
+  color: #19625a;
   margin-left: 475px;
   font-family: Calibri, sans-serif;
   font-size: 30pt;
@@ -20,7 +20,7 @@ h2 {
   margin-left: 225px;
   text-align: center;
   padding: 25px;
-  background: #e9d5ec;
+  background: #a88ba8;
   width: 625px;
   color: #343a39;
   font-family: Helvetica, sans-serif;
@@ -59,14 +59,4 @@ h2 {
 
 img {
   border-radius: 20%;
-}
-
-#transition {
-  width: 100px;
-  height: 100px;
-  background: #ebaf94;
-  transition: width 2s;
-  margin-left: 500px;
-  padding: 12px;
-  font-family: sans-serif;
 }
