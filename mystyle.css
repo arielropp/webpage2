@@ -39,7 +39,7 @@ h2 {
 .button {
   background-color: #4c214a;
   border: none;
-  color: #f6f2f6;
+  color: #dadcdc;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -59,4 +59,8 @@ h2 {
 
 img {
   border-radius: 20%;
+}
+
+a {
+  color: #dadcdc;
 }
